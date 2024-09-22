@@ -87,9 +87,10 @@ The following visualizations provide insights into the data and model performanc
 This heatmap shows the distribution of missing values in the dataset.
 ![image alt](https://github.com/Hansikayokesh/Churn_prediction_project/blob/main/Screenshot%202024-09-22%20042031.png?raw=true)
 - Shipment Time Boxplot
-This boxplot illustrates the distribution of shipment times across different shipment modes.
+- This boxplot illustrates the distribution of shipment times across different shipment modes.
+![image alt](https://github.com/Hansikayokesh/Churn_prediction_project/blob/main/transport_mode.png?raw=true)
 - Customer Clusters Barplot
 This barplot depicts the number of customers in each cluster.
-
+![image alt](https://github.com/Hansikayokesh/Churn_prediction_project/blob/main/bar_plot.png?raw=true)
 ## Conclusion
 This churn prediction model provides actionable insights into customer behavior, enabling the company to focus its marketing efforts and enhance customer retention strategies effectively.
