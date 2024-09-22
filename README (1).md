@@ -85,7 +85,7 @@ predict_customer_churn("Priya", 3, 4, 2, 5)
 The following visualizations provide insights into the data and model performance:
 - Missing Values Heatmap
 This heatmap shows the distribution of missing values in the dataset.
-![Heatmap]("Screenshot 2024-09-22 042031.png")
+![image alt](https://github.com/Hansikayokesh/Churn_prediction_project/blob/main/Screenshot%202024-09-22%20042031.png?raw=true)
 - Shipment Time Boxplot
 This boxplot illustrates the distribution of shipment times across different shipment modes.
 - Customer Clusters Barplot
